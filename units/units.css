@@ -2,20 +2,28 @@
     margin: 0;
 }
 
+body{
+    /* height: 100vh; */
+    /* border: 2px solid red; */
+}
+
 .abs{
     background-color: coral;
     width: 200px;
+    height: 20%;
 }
 
 .div2{
     background-color: crimson;
     width: 50%;
+    height: 200px;
 
 }
 
 .div3{
     background-color: aqua;
     width: 50%;
+    height: 50%;
 
 }
 
@@ -23,5 +31,32 @@
     background-color: fuchsia;
     /* width: 50%; */
     width: 50vw;
+    height: 10vh;
+}
+
+.div5{
+    font-size: 25px;
+
+}
+
+.div6{
+    font-size: 2em;
+
+}
+
+.div7{
+    font-size: 2em;
+
+}
+
+.div8{
+
+}
+
+.div9{
+
+}
+
+.div10{
 
 }
