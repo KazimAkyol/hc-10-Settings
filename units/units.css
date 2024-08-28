@@ -2,6 +2,10 @@
     margin: 0;
 }
 
+html{
+    /* font-size: 20px; */
+}
+
 body{
     /* height: 100vh; */
     /* border: 2px solid red; */
@@ -35,28 +39,26 @@ body{
 }
 
 .div5{
-    font-size: 25px;
+    font-size: 2rem;
 
 }
 
 .div6{
     font-size: 2em;
-
 }
 
 .div7{
     font-size: 2em;
-
 }
 
 .div8{
-
+    font-size: 2rem;
 }
 
 .div9{
-
+    font-size: 3rem;
 }
 
 .div10{
-
+    font-size: 4rem;
 }
