@@ -1,0 +1,25 @@
+div p {
+  /* background-color: crimson; */
+}
+
+.container div p {
+  /* background-color: red; */
+}
+
+.box p {
+  /* background-color: aqua; */
+}
+
+div > p {
+  background-color: red;
+}
+
+div + p {
+  background-color: orange;
+}
+
+div ~ p {
+  background-color: blue;
+}
+
+Attribute Selector 
