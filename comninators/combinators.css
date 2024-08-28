@@ -19,7 +19,31 @@ div + p {
 }
 
 div ~ p {
+  /* background-color: blue; */
+}
+
+/* Attribute Selector  */
+
+h2[title="baslik1"] {
+  background-color: red;
+}
+
+h2[title="baslik2"] {
   background-color: blue;
 }
 
-Attribute Selector 
+p[title="par2"]::first-letter {
+  font-size: 2rem;
+}
+
+p[title="par1"]::first-letter {
+  background-color: darkorange;
+}
+
+a[target="_blank"] {
+  border: 2px solid gray;
+  padding: 5px;
+  background-color: skyblue;
+  text-decoration: none;
+  border-radius: 10px;
+}
