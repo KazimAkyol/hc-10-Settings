@@ -1,12 +1,31 @@
 
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #52ACFF;
+}
 
 .container{
     border: 2px solid red;
-    background: linear-gradient(60deg, red, black);
+    /* background: linear-gradient(60deg, red, black); */
     color: yellow;
-    background-image: url(./img/resim-2.jpg);
+    /* background-image: url(./img/resim-2.jpg); */
+    background: linear-gradient(to right,rgba(255, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(./img/resim-2.jpg);
     width: 20rem;
     height: 20rem;
-    background-size: 10rem 10rem;
+    background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 10px;
+    margin: auto;
+    text-align: justify;
+    padding: 10px;
+    overflow: auto;
+    box-shadow: 5px 5px 10px black;
 }
+
+.container
