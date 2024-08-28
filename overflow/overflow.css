@@ -5,3 +5,30 @@
     height: 4rem;
     background-color: bisque;
 }
+
+.box1{
+    overflow: visible;
+}
+
+.box2{
+    overflow: hidden;
+}
+
+.box3{
+    overflow: scroll;
+}
+
+.box4{
+    overflow: auto;
+}
+
+.box5{
+    /* overflow-x: scroll;
+    overflow-y: scroll; */
+    overflow: auto;
+}
+
+.par1{
+    background-color: coral;
+    width: 40rem;
+}
