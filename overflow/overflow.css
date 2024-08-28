@@ -32,3 +32,9 @@
     background-color: coral;
     width: 40rem;
 }
+
+.box3::-webkit-scrollbar{
+    /* width: 0; */
+    display: none;
+    /* background-color: red; */
+}
