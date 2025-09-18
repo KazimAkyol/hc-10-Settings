@@ -1,4 +1,4 @@
-.box{
+.box {
     border: 5px solid black;
     margin-bottom: 4rem;
     width: 20rem;
@@ -6,34 +6,34 @@
     background-color: bisque;
 }
 
-.box1{
+.box1 {
     overflow: visible;
 }
 
-.box2{
+.box2 {
     overflow: hidden;
 }
 
-.box3{
+.box3 {
     overflow: scroll;
 }
 
-.box4{
+.box4 {
     overflow: auto;
 }
 
-.box5{
+.box5 {
     /* overflow-x: scroll;
     overflow-y: scroll; */
     overflow: auto;
 }
 
-.par1{
+.par1 {
     background-color: coral;
     width: 40rem;
 }
 
-.box3::-webkit-scrollbar{
+.box3::-webkit-scrollbar {
     /* width: 0; */
     display: none;
     /* background-color: red; */

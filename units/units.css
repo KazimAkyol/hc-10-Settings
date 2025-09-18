@@ -1,64 +1,64 @@
-*{
+* {
     margin: 0;
 }
 
-html{
+html {
     /* font-size: 20px; */
 }
 
-body{
+body {
     /* height: 100vh; */
     /* border: 2px solid red; */
 }
 
-.abs{
+.abs {
     background-color: coral;
     width: 200px;
     height: 20%;
 }
 
-.div2{
+.div2 {
     background-color: crimson;
     width: 50%;
     height: 200px;
 
 }
 
-.div3{
+.div3 {
     background-color: aqua;
     width: 50%;
     height: 50%;
 
 }
 
-.div4{
+.div4 {
     background-color: fuchsia;
     /* width: 50%; */
     width: 50vw;
     height: 10vh;
 }
 
-.div5{
+.div5 {
     font-size: 2rem;
 
 }
 
-.div6{
+.div6 {
     font-size: 2em;
 }
 
-.div7{
+.div7 {
     font-size: 2em;
 }
 
-.div8{
+.div8 {
     font-size: 2rem;
 }
 
-.div9{
+.div9 {
     font-size: 3rem;
 }
 
-.div10{
+.div10 {
     font-size: 4rem;
 }
